@@ -17,7 +17,7 @@
 
 Sende vertrauliche Sicherheitsmeldungen bitte direkt per E-Mail an:
 
-📧 [deine-email@example.com](mailto:deine-email@example.com)
+📧 [deine-email@example.com](mailto:09308073+bylickilabs@users.noreply.github.com)
 
 **Wichtig:** Veröffentliche keine Sicherheitsprobleme öffentlich, bevor wir sie beheben konnten.
 
