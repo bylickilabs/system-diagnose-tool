@@ -48,8 +48,8 @@ Wir reagieren zeitnah auf jede Meldung:
 
 | Name                 | Rolle               | Kontakt                                                   |
 | -------------------- | ------------------- | --------------------------------------------------------- |
-| **Thorsten Bylicki** | Projektinhaber      | [deine-email@example.com](mailto:deine-email@example.com) |
-| **Security Team**    | Sicherheitsanalysen | [security@example.com](mailto:security@example.com)       |
+| **Thorsten Bylicki** | Projektinhaber      | [deine-email@example.com](mailto:09308073+bylickilabs@users.noreply.github.com) |
+| **Security Team**    | Sicherheitsanalysen | [security@example.com](mailto:09308073+bylickilabs@users.noreply.github.com)       |
 
 ---
 
