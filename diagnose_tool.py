@@ -63,6 +63,13 @@ def check_open_ports():
     except Exception as e:
         log_and_print(f"Portprüfung Fehler: {e}", Fore.RED)
 
+def check_dns_resolution():
+    try:
+        subprocess.check_output(['nslookup', 'google.com'], stderr=subprocess.STDOUT)
+        log_and_print("DNS-Auflösung OK (Domain google.com erreichbar)", Fore.GREEN)
+    except subprocess.CalledProcessError:
+        log_and_print("WARNUNG: DNS-Auflösung fehlgeschlagen", Fore.RED)
+
 # Menü anzeigen
 def show_menu():
     menu_items = [
@@ -73,6 +80,7 @@ def show_menu():
         "5. Netzwerkprüfung",
         "6. Systemupdateprüfung",
         "7. Offene Ports anzeigen",
+        "8. DNS-Auflösung prüfen",  # Neue Funktion hinzugefügt        
         "0. Beenden"
     ]
     print(Style.BRIGHT + "\nSystem Diagnose Menü:")
@@ -81,7 +89,7 @@ def show_menu():
 
 # Hauptfunktion modular gestaltet
 def main():
-    checks = [check_disk, check_memory, check_cpu, check_network, check_system_updates, check_open_ports]
+    checks = [check_disk, check_memory, check_cpu, check_network, check_system_updates, check_open_ports, check_dns_resolution]
 
     while True:
         show_menu()
@@ -89,7 +97,7 @@ def main():
         if choice == '1':
             for check in checks:
                 check()
-        elif choice in map(str, range(2, 8)):
+        elif choice in map(str, range(2, 9)):
             checks[int(choice) - 2]()
         elif choice == '0':
             log_and_print("Programm beendet.")
