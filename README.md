@@ -11,16 +11,16 @@
 
 <br>
 
-- [📚 Inhaltsverzeichnis](#-inhaltsverzeichnis)
-- [📦 Voraussetzungen](#-voraussetzungen)
-- [📥 Installation](#-installation)
+- [Inhaltsverzeichnis](#-inhaltsverzeichnis)
+- [Voraussetzungen](#-voraussetzungen)
+- [Installation](#-installation)
   - [1. Repository klonen](#1-repository-klonen)
   - [2. Abhängigkeiten installieren](#2-abhängigkeiten-installieren)
   - [3. Ausführungsrechte setzen (optional)](#3-ausführungsrechte-setzen-optional)
-- [▶️ Anwendung starten](#️-anwendung-starten)
-- [🧩 Optional: Tools installieren](#-optional-tools-installieren)
-- [🛡️ Hinweise zur Ausführung](#️-hinweise-zur-ausführung)
-- [📝 Lizenz](#-lizenz)
+- [Anwendung starten](#️-anwendung-starten)
+- [Optional: Tools installieren](#-optional-tools-installieren)
+- [Hinweise zur Ausführung](#️-hinweise-zur-ausführung)
+- [Lizenz](#-lizenz)
 
 <br>
 
@@ -28,8 +28,8 @@
 
 <br>
 
-📦 Voraussetzungen
-> 1. Betriebssystem: Kali Linux oder eine Debian-basierte Linux-Distribution
+#### Voraussetzungen
+1. Betriebssystem: Kali Linux oder eine Debian-basierte Linux-Distribution
 
 ```yarn
 Python-Version: 3.8+
@@ -44,7 +44,7 @@ dnsutils (für nslookup)
 <br><br>
 
 
-📥 Installation
+#### Installation
   - Repository klonen
 
 ```yarn
@@ -54,7 +54,7 @@ cd system-diagnose-tool
 
 <br><br>
 
-> 2. Abhängigkeiten installieren
+2. Abhängigkeiten installieren
 
 ```yarn
 pip install psutil colorama
@@ -62,7 +62,7 @@ pip install psutil colorama
 
 <br><br>
 
-> 3. Ausführungsrechte setzen (optional)
+3. Ausführungsrechte setzen (optional)
 
 ```yarn
 chmod +x diagnose_tool.py
@@ -74,9 +74,34 @@ chmod +x diagnose_tool.py
 
 <br>
 
-▶️ Anwendung starten
+#### Anwendung starten
 
 ```yarn
 sudo python3 diagnose_tool.py
 ```
 - Hinweis: Für einige Funktionen sind Root-Rechte erforderlich (z. B. Ports anzeigen, Firewall prüfen).
+
+<br>
+
+---
+
+<br>
+
+#### Optional: Tools installieren
+- Falls noch nicht vorhanden:
+
+```yarn
+sudo apt update
+sudo apt install net-tools ufw traceroute dnsutils
+```
+
+<br>
+
+---
+
+<br>
+
+#### Hinweise zur Ausführung
+- Die Anwendung ist nicht persistent – sie speichert keine Diagnosedaten automatisch ab.
+  - Für Logging-Funktionen oder Export als Datei kannst du die print()-Ausgaben erweitern.
+    - Die Anwendung ist modular und kann durch eigene Python-Module leicht ergänzt werden.
