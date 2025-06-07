@@ -1,6 +1,6 @@
 # 🧠 System Diagnose Tool – Kali/Linux CLI Analyzer
 
-|![System Diagnostics](./assets/system_diagnostics_neon.png)|
+|![System Diagnostics](./assets/system_diagnostics_neon.png.png)|
 |---|
 
 Ein interaktives, farbcodiertes CLI-Diagnosetool für Kali Linux und andere Debian-Systeme. Entwickelt zur schnellen Erkennung und automatisierten Analyse von System-, Netzwerk- und Sicherheitsproblemen – mit optionalen Root-Rechten, erweiterten Netzwerktools und modularer Erweiterbarkeit.
