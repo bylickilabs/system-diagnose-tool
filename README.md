@@ -1,4 +1,4 @@
-|![Python](https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square)|![Platform](https://img.shields.io/badge/platform-Kali%20Linux%20%7C%20Debian-lightgrey?style=flat-square)|![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)|![Status](https://img.shields.io/badge/status-stable-brightgreen?style=flat-square)|![Python Package CI](https://github.com/DEIN_GITHUB_USERNAME/system-diagnose-tool/actions/workflows/python-package.yml/badge.svg)|
+|![Python](https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square)|![Platform](https://img.shields.io/badge/platform-Kali%20Linux%20%7C%20Debian-lightgrey?style=flat-square)|![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)|![Status](https://img.shields.io/badge/status-stable-brightgreen?style=flat-square)|![Python Package CI](https://github.com/bylickilabs/system-diagnose-tool/actions/workflows/python-package.yml/badge.svg)|
 |---|---|---|---|---|
 
 # 🧠 System Diagnose Tool – Kali/Linux CLI Analyzer
