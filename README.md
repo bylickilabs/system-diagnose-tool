@@ -54,7 +54,7 @@ dnsutils (für nslookup)
 
 
 #### 📥 Installation
-Repository klonen
+1. Repository klonen
 
 ```yarn
 git clone https://github.com/dein-benutzername/system-diagnose-tool.git
