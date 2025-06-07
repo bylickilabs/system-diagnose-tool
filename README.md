@@ -193,3 +193,15 @@ system-diagnose-tool/
 ├── assets/
 │   └── system_diagnostics_neon.png
 ```
+
+<br>
+
+---
+
+<br>
+
+## 📝 Lizenz
+
+```YARN
+MIT License © 2025 Thorsten Bylicki
+```
