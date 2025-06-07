@@ -24,10 +24,6 @@
 
 <br>
 
----
-
-<br>
-
 📦 Voraussetzungen
 > 1. Betriebssystem: Kali Linux oder eine Debian-basierte Linux-Distribution
 
@@ -43,9 +39,6 @@ dnsutils (für nslookup)
 
 <br>
 
----
-
-<br>
 
 📥 Installation
   - Repository klonen
