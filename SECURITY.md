@@ -70,7 +70,7 @@ Wir reagieren zeitnah auf jede Meldung:
 
 ## 📌 Updates & Ankündigungen
 
-* Sicherheitsupdates erscheinen in den [GitHub Release-Notes](https://github.com/DEIN_GITHUB_USERNAME/DEIN_REPOSITORY_NAME/releases).
+* Sicherheitsupdates erscheinen in den [GitHub Release-Notes](https://github.com/bylickilabs/system-diagnose-tool/releases).
 * Bei kritischen Sicherheitsproblemen informieren wir die Nutzer direkt.
 
 ---
