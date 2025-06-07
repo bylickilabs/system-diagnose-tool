@@ -15,9 +15,8 @@
 
 ## 📢 Sicherheitsprobleme melden
 
-Sende vertrauliche Sicherheitsmeldungen bitte direkt per E-Mail an:
+Sende vertrauliche Sicherheitsmeldungen bitte direkt per Pull
 
-📧 [09308073+bylickilabs@users.noreply.github.com](mailto:09308073+bylickilabs@users.noreply.github.com)
 
 **Wichtig:** Veröffentliche keine Sicherheitsprobleme öffentlich, bevor wir sie beheben konnten.
 
@@ -48,8 +47,8 @@ Wir reagieren zeitnah auf jede Meldung:
 
 | Name                 | Rolle               | Kontakt                                                   |
 | -------------------- | ------------------- | --------------------------------------------------------- |
-| **Thorsten Bylicki** | Projektinhaber      | [09308073+bylickilabs@users.noreply.github.com](mailto:09308073+bylickilabs@users.noreply.github.com) |
-| **Security Team**    | Sicherheitsanalysen | [09308073+bylickilabs@users.noreply.github.com](mailto:09308073+bylickilabs@users.noreply.github.com)       |
+| **Thorsten Bylicki** | Projektinhaber      | @bylickilabs |
+| **Security Team**    | Sicherheitsanalysen | @bylickilabs |
 
 ---
 
