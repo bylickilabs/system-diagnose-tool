@@ -17,7 +17,7 @@
 
 Sende vertrauliche Sicherheitsmeldungen bitte direkt per E-Mail an:
 
-📧 [deine-email@example.com](mailto:09308073+bylickilabs@users.noreply.github.com)
+📧 [09308073+bylickilabs@users.noreply.github.com](mailto:09308073+bylickilabs@users.noreply.github.com)
 
 **Wichtig:** Veröffentliche keine Sicherheitsprobleme öffentlich, bevor wir sie beheben konnten.
 
@@ -48,8 +48,8 @@ Wir reagieren zeitnah auf jede Meldung:
 
 | Name                 | Rolle               | Kontakt                                                   |
 | -------------------- | ------------------- | --------------------------------------------------------- |
-| **Thorsten Bylicki** | Projektinhaber      | [deine-email@example.com](mailto:09308073+bylickilabs@users.noreply.github.com) |
-| **Security Team**    | Sicherheitsanalysen | [security@example.com](mailto:09308073+bylickilabs@users.noreply.github.com)       |
+| **Thorsten Bylicki** | Projektinhaber      | [09308073+bylickilabs@users.noreply.github.com](mailto:09308073+bylickilabs@users.noreply.github.com) |
+| **Security Team**    | Sicherheitsanalysen | [09308073+bylickilabs@users.noreply.github.com](mailto:09308073+bylickilabs@users.noreply.github.com)       |
 
 ---
 
