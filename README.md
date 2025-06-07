@@ -29,7 +29,7 @@
 <br>
 
 📦 Voraussetzungen
-Betriebssystem: Kali Linux oder eine Debian-basierte Linux-Distribution
+> 1. Betriebssystem: Kali Linux oder eine Debian-basierte Linux-Distribution
 
 ```yarn
 Python-Version: 3.8+
@@ -56,4 +56,4 @@ cd system-diagnose-tool
 ```
 
 <p>
-  - Abhängigkeiten installieren
+> 2. Abhängigkeiten installieren
