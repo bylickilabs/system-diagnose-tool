@@ -1,6 +1,3 @@
-|[![Sponsor](https://img.shields.io/badge/%F0%9F%92%96-Sponsor-ff69b4?style=flat-square)](https://github.com/sponsors/BYLICKILABS)|
-|---|
-
 |![Diagnose Tool](https://img.shields.io/badge/System%20Diagnose%20Tool-v1.0.0-brightgreen?style=flat-square&logo=linux)|![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bylickilabs/system-diagnose-tool/python-ci.yml?branch=main\&style=flat-square)|![Status](https://img.shields.io/badge/status-stable-brightgreen?style=flat-square)|![Python](https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square)|![Platform](https://img.shields.io/badge/platform-Kali%20Linux%20%7C%20Debian-lightgrey?style=flat-square)|![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)|
 |---|---|---|---|---|---|
 
