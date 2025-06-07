@@ -190,17 +190,16 @@ Systemanalyse
 ## 📁 Projektstruktur
 
 ```yarn
-github.com/bylickilabs/system-diagnose-tool/tree/mainsystem-diagnose-tool/
-├──.github/workflows
-│   └── python-ci.yml
+system-diagnose-tool/
+├── diagnose_tool.py
+├── .github/
+│   └── workflows/
+│       └── python-ci.yml
+├── logs/
 ├── assets/
 │   └── system_diagnostics_neon.png
-├── LICENSE
 ├── README.md
-├── diagnose_tool.py
-
-
-
+└── .gitignore
 ```
 
 <br>
