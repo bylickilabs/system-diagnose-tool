@@ -2,6 +2,22 @@
 |---|---|---|---|
 
 > system-diagnose-tool
-
 - Interaktives CLI-Diagnosetool für Kali &amp; Linux
   - prüft Systemzustand, Netzwerke, Dienste und Sicherheitsaspekte automatisiert im Terminal. Farbcodiert. Modular. Erweiterbar.
+
+<br>
+
+---
+
+<br>
+
+- [📚 Inhaltsverzeichnis](#-inhaltsverzeichnis)
+- [📦 Voraussetzungen](#-voraussetzungen)
+- [📥 Installation](#-installation)
+  - [1. Repository klonen](#1-repository-klonen)
+  - [2. Abhängigkeiten installieren](#2-abhängigkeiten-installieren)
+  - [3. Ausführungsrechte setzen (optional)](#3-ausführungsrechte-setzen-optional)
+- [▶️ Anwendung starten](#️-anwendung-starten)
+- [🧩 Optional: Tools installieren](#-optional-tools-installieren)
+- [🛡️ Hinweise zur Ausführung](#️-hinweise-zur-ausführung)
+- [📝 Lizenz](#-lizenz)
