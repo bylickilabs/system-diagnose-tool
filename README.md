@@ -41,11 +41,7 @@ traceroute
 dnsutils (für nslookup)
 ```
 
-<br>
-
----
-
-<br>
+<br><br>
 
 
 📥 Installation
@@ -56,14 +52,31 @@ git clone https://github.com/dein-benutzername/system-diagnose-tool.git
 cd system-diagnose-tool
 ```
 
-<br>
-
----
-
-<br>
+<br><br>
 
 > 2. Abhängigkeiten installieren
 
 ```yarn
 pip install psutil colorama
 ```
+
+<br><br>
+
+> 3. Ausführungsrechte setzen (optional)
+
+```yarn
+chmod +x diagnose_tool.py
+```
+
+<br>
+
+---
+
+<br>
+
+▶️ Anwendung starten
+
+```yarn
+sudo python3 diagnose_tool.py
+```
+- Hinweis: Für einige Funktionen sind Root-Rechte erforderlich (z. B. Ports anzeigen, Firewall prüfen).
