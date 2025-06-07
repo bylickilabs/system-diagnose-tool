@@ -1,6 +1,6 @@
 # 🛡️ Security Policy
 
-> Vielen Dank, dass du zur Sicherheit unseres Projekts beiträgst. Sicherheit steht für uns an oberster Stelle. Wir schätzen jede Unterstützung, um die Anwendung sicherer zu machen.
+Vielen Dank, dass du zur Sicherheit unseres Projekts beiträgst. Sicherheit steht für uns an oberster Stelle. Wir schätzen jede Unterstützung, um die Anwendung sicherer zu machen.
 
 ---
 
@@ -15,8 +15,9 @@
 
 ## 📢 Sicherheitsprobleme melden
 
-Sende vertrauliche Sicherheitsmeldungen bitte direkt per Pull
+Sende vertrauliche Sicherheitsmeldungen bitte direkt per E-Mail an:
 
+📧 [EMAIL](mailto:bylicki@mail.de)
 
 **Wichtig:** Veröffentliche keine Sicherheitsprobleme öffentlich, bevor wir sie beheben konnten.
 
@@ -47,8 +48,8 @@ Wir reagieren zeitnah auf jede Meldung:
 
 | Name                 | Rolle               | Kontakt                                                   |
 | -------------------- | ------------------- | --------------------------------------------------------- |
-| **Thorsten Bylicki** | Projektinhaber      | @bylickilabs |
-| **Security Team**    | Sicherheitsanalysen | @bylickilabs |
+| **Thorsten Bylicki** | Projektinhaber      | [EMAIL](mailto:bylicki@mail.de)       |
+| **Security Team**    | Sicherheitsanalysen | [EMAIL](mailto:bylicki@mail.de)       |
 
 ---
 
