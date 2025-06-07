@@ -24,6 +24,10 @@
 
 <br>
 
+---
+
+<br>
+
 📦 Voraussetzungen
 > 1. Betriebssystem: Kali Linux oder eine Debian-basierte Linux-Distribution
 
@@ -39,6 +43,10 @@ dnsutils (für nslookup)
 
 <br>
 
+---
+
+<br>
+
 
 📥 Installation
   - Repository klonen
@@ -47,6 +55,10 @@ dnsutils (für nslookup)
 git clone https://github.com/dein-benutzername/system-diagnose-tool.git
 cd system-diagnose-tool
 ```
+
+<br>
+
+---
 
 <br>
 
