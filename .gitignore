@@ -1,0 +1,33 @@
+# Python Cache-Dateien
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtuelle Umgebungen (venv)
+env/
+venv/
+ENV/
+
+# Logs
+*.log
+
+# Betriebssystemdateien
+.DS_Store
+Thumbs.db
+
+# Docker
+*.dockerignore
+
+# Editor-Dateien
+.vscode/
+.idea/
+*.swp
+
+# Build-Dateien
+build/
+dist/
+*.egg-info/
+
+# Sonstige Dateien
+*.sqlite
+*.db
