@@ -11,16 +11,19 @@
 
 <br>
 
-- [Inhaltsverzeichnis](#-inhaltsverzeichnis)
-- [Voraussetzungen](#-voraussetzungen)
-- [Installation](#-installation)
+- [🧠 System Diagnose Tool – Kali/Linux CLI Analyzer](#-system-diagnose-tool--kalilinux-cli-analyzer)
+- [📚 Inhaltsverzeichnis](#-inhaltsverzeichnis)
+- [📦 Voraussetzungen](#-voraussetzungen)
+- [📥 Installation](#-installation)
   - [1. Repository klonen](#1-repository-klonen)
   - [2. Abhängigkeiten installieren](#2-abhängigkeiten-installieren)
-  - [3. Ausführungsrechte setzen (optional)](#3-ausführungsrechte-setzen-optional)
-- [Anwendung starten](#️-anwendung-starten)
-- [Optional: Tools installieren](#-optional-tools-installieren)
-- [Hinweise zur Ausführung](#️-hinweise-zur-ausführung)
-- [Lizenz](#-lizenz)
+  - [3. Optional: Tools für Netzwerkdiagnose installieren](#3-optional-tools-für-netzwerkdiagnose-installieren)
+- [🛡️ Root-Rechte korrekt einrichten](#️-root-rechte-korrekt-einrichten)
+- [▶️ Anwendung starten](#️-anwendung-starten)
+- [🧩 Menüübersicht](#-menüübersicht)
+- [🛠 Funktionsübersicht](#-funktionsübersicht)
+- [📁 Projektstruktur](#-projektstruktur)
+- [📝 Lizenz](#-lizenz)
 
 <br>
 
@@ -28,8 +31,14 @@
 
 <br>
 
-#### Voraussetzungen
+#### 📦 Voraussetzungen
 1. Betriebssystem: Kali Linux oder eine Debian-basierte Linux-Distribution
+
+| Komponente     | Benötigt     | Beschreibung                        |
+|----------------|--------------|-------------------------------------|
+| OS             | ✅ Linux      | Debian-basiert (Kali empfohlen)     |
+| Python         | ✅ 3.8+       | Für psutil, colorama                |
+| Netzwerktools  | 🔸 optional   | `net-tools`, `traceroute`, `dnsutils`, `ufw` |
 
 ```yarn
 Python-Version: 3.8+
@@ -44,7 +53,7 @@ dnsutils (für nslookup)
 <br><br>
 
 
-#### Installation
+#### 📥 Installation
   - Repository klonen
 
 ```yarn
@@ -74,7 +83,7 @@ chmod +x diagnose_tool.py
 
 <br>
 
-#### Anwendung starten
+#### ▶️ Anwendung starten
 
 ```yarn
 sudo python3 diagnose_tool.py
@@ -87,7 +96,7 @@ sudo python3 diagnose_tool.py
 
 <br>
 
-#### Optional: Tools installieren
+#### 🧩 Optional: Tools installieren
 - Falls noch nicht vorhanden:
 
 ```yarn
