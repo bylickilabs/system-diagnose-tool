@@ -48,7 +48,7 @@ git clone https://github.com/dein-benutzername/system-diagnose-tool.git
 cd system-diagnose-tool
 ```
 
-<br>
+<br><br>
 
 > 2. Abhängigkeiten installieren
 
